@@ -47,3 +47,8 @@ img {
    width: 250px;
    background-color: #212121;
 }
+
+video {
+  height: 250px;
+  width: 167;
+}
