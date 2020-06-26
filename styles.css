@@ -1,27 +1,33 @@
 
 p {
-  color: lightblue;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
   color: white;
   background-color: #212121
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h2 {
   color: white;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 h3 {
   color: white;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 h4 {
   color: white;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 h5 {
   color: white;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 h6 {
@@ -36,4 +42,5 @@ body {
 
 a {
    color: lightblue
+     font-family: Arial, Helvetica, sans-serif;
 }
