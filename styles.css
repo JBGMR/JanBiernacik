@@ -7,7 +7,7 @@ p {
 h1 {
   color: lightblue;
   background-color: #212121;
-  font-family: Arial, sans-serif;
+  font-family: Impact, Charcoal, sans-serif;
 }
 
 h2 {
@@ -39,4 +39,5 @@ body {
 
 a {
    color: lightblue;
+   font-family: Impact, Charcoal, sans-serif;
 }
