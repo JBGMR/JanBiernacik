@@ -1,0 +1,53 @@
+p {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: lightblue;
+  background-color: #212121;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  color: white;
+}
+
+h3 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h4 {
+  color: white;
+}
+
+h5 {
+  color: white;
+}
+
+h6 {
+  color: white;
+}
+
+
+body {
+ background-image: url("background.jpg");
+ background-color: #cccccc;
+}
+
+a {
+   color: lightblue;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+   height: 250px;
+   width: 250px;
+   background-color: #212121;
+   margin-top: 60px;
+}
+
+video {
+   margin-top: 60px;
+}
