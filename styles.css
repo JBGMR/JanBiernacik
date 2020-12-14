@@ -1,52 +1,70 @@
 
 p {
-  color: white;
+  color: black;
   font-family: Arial, Helvetica, sans-serif;
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: center;
 }
 
 h1 {
-  color: lightblue;
-  background-color: #212121;
+  color: #0481ff;
   font-family: Arial, Helvetica, sans-serif;
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: center;
+
 }
 
 h2 {
-  color: white;
+  color: black;
 }
 
 h3 {
-  color: white;
+  color: black;
   font-family: Arial, Helvetica, sans-serif;
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: center;
 }
 
 h4 {
-  color: white;
+  color: black;
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: center;
 }
 
 h5 {
-  color: white;
+  color: black;
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: center;
 }
 
 h6 {
-  color: white;
+  color: black;
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: center;
 }
 
 
 body {
- background-image: url("background.jpg");
- background-color: #cccccc;
+ background-color: #ffffff;
 }
 
 a {
-   color: lightblue;
+   color: orange;
    font-family: Arial, Helvetica, sans-serif;
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: center;
 }
 
 img {
-   height: 250px;
-   width: 250px;
-   background-color: #212121;
-   margin-top: 60px;
+max-width:100%;
+max-height:100%
 }
 
 video {
