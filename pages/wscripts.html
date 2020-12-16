@@ -8,9 +8,25 @@
     </head>
     <center>
     <body>
-        <h1>Windows 10 scripts</h1>
+        <h1>Scripts</h1>
         <a href="../index.html#Windows 10">back</a>
-        <h2>Coming soon...</h2>
+        <h3>Debloat</h3>
+        <p>A simple powershell script that removes every modern Windows app (including the Microsoft Store). Some apps like Edge cannot be removed by this command. Winaero.com has a script 
+            which does that. I cannot provide it here due to copyright.
+        </p>
+            <a href="../files/SimpleDebloaterJB.ps1" download="SimpleDebloaterByJB.ps1">Download</a>
+
+
+        <h1>Tutorials</h1>
+
+        <h3>Telemetry</h3>
+        <p>Do you want Microsoft to collect your personal data? I'm sure the answer is no. Here is a step by step guide on how to disable telemetry:</p>
+        <p>Step 1: Open the Windows-Run dialog and type in regedit.exe.</p>
+        <p>Step 2: Navigate to 'Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\DataCollection'</p>
+        <p>Step 3: Create a new DWORD (32 bit) entry and name it 'AllowTelemetry' (Skip this step if it already exists) and set it's value to 0.</p>
+        <p>Done.</p>
+
+        <h2>More coming soon...</h2>
     </body>
     </center>
 </html>
