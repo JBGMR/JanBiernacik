@@ -2,7 +2,7 @@
 p {
   font-family: Arial, Helvetica, sans-serif;
   margin-left: 25px;
-  margin-right: 40%;
+  margin-right: 25px;
 }
 
 h1 {
@@ -15,19 +15,17 @@ h2 {
   font-family: Arial, Helvetica, sans-serif;
   margin-left: 25px;
   margin-right: 25px;
-  color: #151515;
 }
 
 h3 {
   font-family: Arial, Helvetica, sans-serif;
-  margin-left: 25px;
   margin-right: 25px;
 }
 
 h4 {
   font-family: Arial, Helvetica, sans-serif;
-  margin-left: 25px;
   margin-right: 25px;
+  margin-left: 15px;
 }
 
 h5 {
@@ -61,5 +59,5 @@ video {
 }
 
 body {
-  margin: 0;
+  margin: 3;
 }
