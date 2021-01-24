@@ -1,68 +1,39 @@
 
 p {
-  color: black;
   font-family: Arial, Helvetica, sans-serif;
-  margin-left: 28%;
-  margin-right: 28%;
-  text-align: center;
 }
 
 h1 {
-  color: #0481ff;
   font-family: Arial, Helvetica, sans-serif;
-  text-align: center;
-
 }
 
 h2 {
-  color: black;
   font-family: Arial, Helvetica, sans-serif;
-  margin-left: 25%;
-  margin-right: 25%;
-  text-align: center;
 }
 
 h3 {
-  color: black;
   font-family: Arial, Helvetica, sans-serif;
-  margin-left: 25%;
-  margin-right: 25%;
-  text-align: center;
 }
 
 h4 {
-  color: black;
-  margin-left: 25%;
-  margin-right: 25%;
-  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 h5 {
-  color: black;
-  margin-left: 25%;
-  margin-right: 25%;
-  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 h6 {
-  color: black;
-  margin-left: 25%;
-  margin-right: 25%;
-  text-align: center;
-}
-
-
-body {
- background-color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 a {
-   color: orange;
-   font-family: Arial, Helvetica, sans-serif;
-  margin-left: 25%;
-  margin-right: 25%;
-  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
   text-decoration: none;
+  color:darkslategray;
+  font-size: x-large;
+  margin-right: 15px;
+  margin-left: 15px;
 }
 
 img {
@@ -72,4 +43,8 @@ max-height:100%
 
 video {
    margin-top: 60px;
+}
+
+body {
+  margin: 0;
 }
