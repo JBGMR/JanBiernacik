@@ -1,71 +1,26 @@
+.titlebuttoncurrent { font-family: Arial, Helvetica, sans-serif; text-decoration: none; color: white; background-color: #1ad1ff; border:  #1ad1ff solid 12px; display: table-cell; vertical-align: middle; }
+.titlebutton { font-family: Arial, Helvetica, sans-serif; text-decoration: none; color: white; background-color: royalblue; border:  royalblue solid 12px; display: table-cell; vertical-align: middle; }
+.titlelogo { font-family:fantasy; text-decoration: none; color: white; background-color: royalblue; border:  royalblue solid 12px; display: table-cell; vertical-align: middle; }
+.titleimage { width: 100%; }
+.linkcollection { margin-left: 2.5px; margin-right: 2.5px; }
+.linkcollectiondiv { margin-left: 25px; }
+.button { background-color:royalblue; border: 5px solid royalblue; border-radius: 3px; font-size: large; color: lightcyan; }
+.hotlink {  width: 50%; }
+.hotlinkbutton { background-color:royalblue; border: 5px solid royalblue; border-radius: 3px; font-size: large; color: lightcyan; margin-left: 24%; }
+.hotimg { width: 25%; margin-bottom: 10px; margin-top: 6px;border: royalblue solid 3px; background-color: cyan; float: right; margin-right: 5%;}
+.hothr { margin-top: 15px; margin-right: 0%; }
+.hotvid { margin-left: 25px; margin-right: 25px; }
+.postdiv { margin-left: 25px; margin-right: 50%; }
+.imgpost { margin-left: 25px; margin-right: 25px; }
 
-p {
-  font-family: Arial, Helvetica, sans-serif;
-  margin-left: 25px;
-  margin-right: 25px;
-}
-
-h1 {
-  font-family: Arial, Helvetica, sans-serif;
-  margin-left: 25px;
-  margin-right: 25px;
-}
-
-h2 {
-  font-family: Arial, Helvetica, sans-serif;
-  margin-left: 25px;
-  margin-right: 25px;
-  color: #151515;
-}
-
-h3 {
-  font-family: Arial, Helvetica, sans-serif;
-  margin-left: 25px;
-  margin-right: 25px;
-}
-
-h4 {
-  font-family: Arial, Helvetica, sans-serif;
-  margin-left: 25px;
-  margin-right: 25px;
-}
-
-h5 {
-  font-family: Arial, Helvetica, sans-serif;
-  margin-left: 25px;
-  margin-right: 25px;
-}
-
-h6 {
-  font-family: Arial, Helvetica, sans-serif;
-  margin-left: 25px;
-  margin-right: 25px;
-}
-
-a {
-  font-family: Arial, Helvetica, sans-serif;
-  text-decoration: none;
-  color:darkslategray;
-  font-size: x-large;
-  margin-right: 10px;
-  margin-left: 10px;
-}
-
-img {
-max-width:100%;
-max-height:100%
-}
-
-video {
-   margin-top: 60px;
-}
-
-body {
-  margin: 0;
-}
-
-li {
-  margin-left: 25px;
-  margin-right: 25px;
-
-}
+body { margin: 0; }
+p { margin-left: 25px; margin-right: 25px; font-family: Arial, Helvetica, sans-serif; }
+h1 { margin-left: 25px; margin-right: 25px; font-family: Arial, Helvetica, sans-serif; }
+h2 { margin-left: 25px; margin-right: 25px; font-family: Arial, Helvetica, sans-serif; }
+h3 { margin-left: 25px; margin-right: 25px; font-family: Arial, Helvetica, sans-serif; }
+h4 { margin-left: 25px; margin-right: 25px; font-family: Arial, Helvetica, sans-serif; }
+h5 { margin-left: 25px; margin-right: 25px; font-family: Arial, Helvetica, sans-serif; }
+h6 { margin-left: 25px; margin-right: 25px; font-family: Arial, Helvetica, sans-serif; }
+a { margin-left: 25px; margin-right: 25px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; color: blue; }
+hr { margin-left: 25px; margin-right: 25px; font-family: Arial, Helvetica, sans-serif; }
+ul li { margin-left: 25px; font-family: Arial, Helvetica, sans-serif; }
